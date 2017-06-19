@@ -1,4 +1,4 @@
-package com.yicuicui.webservice.client;
+package com.github.webservice.client;
 
 import java.util.ArrayList;
 import java.util.HashMap;
